@@ -101,7 +101,7 @@ body {
 }
 #showAnswer {
   font-size: 2rem;
-  padding: 0rem 0;
+  margin-top: 2rem;
   text-align: center;
   font-weight: 700;
 }
