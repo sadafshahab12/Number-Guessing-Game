@@ -1,0 +1,64 @@
+@media only screen and (max-width: 321px) {
+  html {
+    font-size: 46%;
+  }
+  .input {
+    display: block;
+  }
+  .user-guess,
+  .btn {
+    display: block;
+    width: 100%;
+    margin: 0 auto 2rem auto;
+  }
+}
+@media only screen and (min-width: 322px) and (max-width: 376px) {
+  html {
+    font-size: 54.5%;
+  }
+  .input {
+    display: block;
+  }
+  .user-guess,
+  .btn {
+    display: block;
+    width: 100%;
+    margin: 0 auto 2rem auto;
+  }
+}
+@media only screen and (min-width: 377px) and (max-width: 426px) {
+  html {
+    font-size: 60%;
+  }
+  .input {
+    display: block;
+  }
+  .user-guess,
+  .btn {
+    display: block;
+    width: 100%;
+    margin: 0 auto 2rem auto;
+  }
+}
+@media only screen and (min-width: 767px) and (max-width: 800px) {
+  html {
+    font-size: 72%;
+  }
+  .container {
+    width: 70%;
+  }
+  .input {
+    display: block;
+  }
+  .user-guess,
+  .btn {
+    display: block;
+    width: 70%;
+    margin: 0 auto 2rem auto;
+  }
+}
+@media only screen and (min-width: 2559px) {
+  html {
+    font-size: 100%;
+  }
+}
